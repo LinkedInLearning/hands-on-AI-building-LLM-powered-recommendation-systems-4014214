@@ -1,7 +1,11 @@
-# COURSENAME
+# Hands-on AI: Building LLM-Powered Recommendation Systems
 This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
+
+## Course Description
+
+<p>Get a technically grounded overview of how to start building the next generation of intelligent recommender systems. Moving beyond traditional algorithms, this course shows you how to immediately enhance existing systems by applying AI-powered techniques for embedding generation, semantic reranking, cold start mitigation, and more. Instructor Rishabha Misra outlines the essentials of designing sophisticated, GenAI-native architectures that enable dynamic experiences like conversational search and multimodal recommendations. An ideal fit for software engineers, data scientists, AI and ML engineers, and technical product managers, this course focuses on robust evaluation, teaching you how to measure for quality and fairness and ensure factual accuracy through patterns like retrieval-augmented generation (RAG). By the end of this course, you’ll be prepared to design, evaluate, and operationalize effective and responsible GenAI recommender systems in a production environment.</p>
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -22,15 +26,15 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+## Instructor
+
+Rishabh Misra
+
+Principal Machine Learning Engineer and Tech Lead at Atlassian
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/building-llm-powered-recommendation-systems/discover-the-power-of-generative-ai-for-recommendation-systems?u=104
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQHc8hoPADFzBQ/learning-public-crop_675_1200/B56ZskQyzWGkAY-/0/1765839941522?e=2147483647&v=beta&t=JjkCkicvSxg14Vhzg3yRy3kgOHdu916gcBIqKG-ZHiM
 
